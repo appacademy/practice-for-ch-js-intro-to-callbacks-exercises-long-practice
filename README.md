@@ -1,8 +1,8 @@
-# Intro to Callbacks Exercises
+# Intro To Callbacks Exercises
 
 Let's practice using callbacks!
 
-## Learning Goals
+## Learning goals
 
 By the end of this practice, you should be able to
 
@@ -19,7 +19,7 @@ Useful Readings:
 - `this` and that
 - Intro to Callbacks: File I/O
 
-## Timing is Everything
+## Timing is everything
 
 Use [`setInterval`][setinterval-doc] to build a small clock in your terminal. It
 should display the current time every second. However, you can only query the
